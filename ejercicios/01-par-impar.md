@@ -16,3 +16,9 @@ Entrada | Resultado esperado
 7 | Impar
 10 | Par
 -4 | Par
+## Pruebas
+Entrada | Resultado esperado
+8 | Par
+7 | Impar
+10 | Par
+-4 | Par
