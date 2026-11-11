@@ -11,7 +11,9 @@ Salma Jireh Ochoa Vargas
 ## Herramientas
 Pseudocódigo.
 GitHub.
+mejora-readme
 ## Lo que aprendí
 Un repositorio sirve para almacenar, organizar y gestionar de manera centralizada los archivos de un proyecto y todo su historial de cambios.
 Un commit sirve para registrar formalmente un conjunto de modificaciones realizadas en los archivos, acompañado de un mensaje descriptivo.
 Una rama sirve para trabajar en una línea de desarrollo independiente sin alterar la versión principal (main) hasta que los cambios estén listos y probados.
+main
